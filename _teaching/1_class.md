@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Distributed Systems
-description: Undergraduated course on distributed systems
+description: Undergraduate course on distributed systems
 year: 2021
 ---
 
