@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D Student, PUCRS/Brazil. <a href="mailto:fnascimento@edu.pucrs.br">fnascimento@edu.pucrs.br</a>.
+description: Ph.D Student, PUCRS/Brazil. <a href="mailto:f.nascimento@edu.pucrs.br">f.nascimento@edu.pucrs.br</a>.
 
 profile:
   align: right
@@ -20,6 +20,3 @@ Francisco is a lecturer at <a href="http://professores.faccat.br/assis">FIT - FA
 He completed a BSc in CS from the <a href="http://www.ufpb.br">UFPb - João Pessoa/PB, Brazil</a> UFPb in 1988 and an MSc in CS from <a href="http://www.inf.ufrgs.br">Informatics Institute - UFRGS, Porto Alegre/RS, Brazil</a>UFRGS in 1992. Francisco started a Ph.D. course in CS in 2019 at <a href="http://www.pucrs.br">PUCRS - Porto Alegre/RS, Brazil</a>. 
 He has experience in CS, mainly in Design Automation for Distributed, Real-Time Embedded Systems, working on many aspects of design for computer systems in general. In his Ph.D. research, he explores cognitive edge and distributed ledger technologies to build robust IoT-based systems.
 
-<i class="fas fa-camera"></i>
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
