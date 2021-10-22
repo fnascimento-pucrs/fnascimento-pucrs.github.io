@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Ph.D Student, PUCRS/Brazil. <a href="mailto:fnascimento@edu.pucrs.br">fnascimento@edu.pucrs.br</a>.
 
 profile:
   align: right
@@ -16,9 +16,10 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Francisco is a lecturer at <a href="http://professores.faccat.br/assis">FIT - FACCAT, Taquara/RS, Brazil</a> and Co-founder and DPO at <a href="http://www.infisc.com.br">Infisc, Taquara/RS, Brazil</a>. 
+He completed a BSc in CS from the <a href="http://www.ufpb.br">UFPb - João Pessoa/PB, Brazil</a> UFPb in 1988 and an MSc in CS from <a href="http://www.inf.ufrgs.br">Informatics Institute - UFRGS, Porto Alegre/RS, Brazil</a>UFRGS in 1992. Francisco started a Ph.D. course in CS in 2019 at <a href="http://www.pucrs.br">PUCRS - Porto Alegre/RS, Brazil</a>. 
+He has experience in CS, mainly in Design Automation for Distributed, Real-Time Embedded Systems, working on many aspects of design for computer systems in general. In his Ph.D. research, he explores cognitive edge and distributed ledger technologies to build robust IoT-based systems.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<i class="fas fa-camera"></i>
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
