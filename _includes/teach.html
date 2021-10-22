@@ -1,0 +1,33 @@
+<div class="grid-item">
+  {% if teach.redirect %}
+  <a href="{{ teach.redirect }}">
+  {% else %}
+  <a href="{{ teach.url | relative_url }}">
+  {% endif %}
+    <div class="card hoverable">
+      {% if teach.img %}
+      <img src="{{ teach.img | relative_url }}" alt="teach thumbnail">
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">{{ teach.title }}</h2>
+        <p class="card-text">{{ teach.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if teach.github %}
+          <div class="github-icon">
+            <div class="icon" data-toggle="tooltip" title="Code Repository">
+              <a href="{{ teach.github }}"><i class="fab fa-github gh-icon"></i></a>
+            </div>
+            {% if teach.github_stars %}
+            <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+              <i class="fas fa-star"></i>
+              <span id="{{ teach.github_stars }}-stars"></span>
+            </span>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "57f1e532210591ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "388b849730cd4810",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_pages/teaching.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a8751b1d1c45ad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d21860928367b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a8a8eb7fa3f8b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f45d482e33c8984",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2adc1472d476deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cfbbb095281458b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d881353cf69ab3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/teaching.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "388b849730cd4810",
+  "lastOpenFiles": [
+    "_pages/teaching.md",
+    "_pages/projects.md",
+    "_pages/publications.md",
+    "_news/announcement_1.md",
+    "oldstuff/1_project.md",
+    "_pages/about.md",
+    "_news/announcement_3.md",
+    "_news/announcement_2.md",
+    "_projects/1_project.md",
+    "README.md"
+  ]
+}
